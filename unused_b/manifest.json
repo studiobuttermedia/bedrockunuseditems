@@ -1,0 +1,25 @@
+{
+"format_version": 2,
+"header": {
+"description": "Add 3 unused items back in Minecraft Bedrock",
+"name": "Minecraft Unused Items",
+"uuid":"12cf403a-5c6e-4228-b7de-88c1d484546d",
+"version": [2, 0, 0],
+"min_engine_version": [1, 18, 0]
+},
+"modules":
+[
+	{
+	"description": "Add 3 unused items back in Minecraft Bedrock",
+	"type": "data",
+	"uuid": "053e9218-7184-414f-9cbd-9d623752621d",
+	"version": [2, 0, 0]
+	}
+],
+"dependencies": [
+{
+	"uuid":"cbd0dc3f-c258-4fc6-8908-fab6b0104519",
+	"version":[2,0,0]
+}
+]
+}

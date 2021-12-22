@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+	  "description": "This pack only adds text for Glowing Obsidian",
+	  "name": "Minecraft Unused Items",
+	  "uuid":"cbd0dc3f-c258-4fc6-8908-fab6b0104519",
+	  "version": [2, 0, 0],
+	  "min_engine_version": [1, 18, 0]
+	 },
+	"modules": [
+	  {
+		"description": "This pack ohly adds text for Glowing Obsidian",
+		"type": "resources",
+		"uuid": "94e4fbc3-51b6-4704-a5f3-d553bfc3f5a2",
+		"version": [2, 0, 0]
+	  }
+	]
+   }

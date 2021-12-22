@@ -1,0 +1,33 @@
+{
+	"format_version": "1.14.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:glowingobsidian"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#X#",
+			"X0X",
+			"#X#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:netherrack"
+			},
+			"0": {
+				"item": "minecraft:obsidian"
+			},
+			"X": {
+				"item": "minecraft:glowstone"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:glowingobsidian",
+				"count": 1
+			}
+		]
+	}
+}
